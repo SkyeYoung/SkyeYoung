@@ -1,4 +1,4 @@
-## Hi, I'm Young 👋
+## 👋 Hi, I'm Young
 
 * 🦸 A Full-stack engineer. (Maybe? I need to work harder and be more focused)
 * 💻 Using Arch Linux with i3wm, Debian, Windows.
