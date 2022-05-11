@@ -6,4 +6,4 @@
 * 🥰 Focusing on Apache APISIX Website and Dashboard.
 * 😥 Trying to find time to contribute to gatsby-oi-wiki.
 * 🚀 Want to be an **Apache Committer**.
-* 📫 Reach me? ⬅️👀
+* 📫 Reach me? ↙️👀
