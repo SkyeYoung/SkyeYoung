@@ -5,5 +5,5 @@
 * 🎮 Splatoon 3, Racing Games(NFS, Forza Horizon, ...), Minecraft, Touhou Project.
 * 🥰 Focusing on Apache APISIX Dashboard and Website.
 * 😥 Trying to find time to contribute to gatsby-oi-wiki.
-* 🚀 An Apache Committer of APISIX. 
+* 🚀 A committer of Apache APISIX. 
 * 📫 Reach me? ↙️👀
